@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "name": "LNMgamers",
+    "builds": [
+       { "src": "back.js", "use": "@vercel/node" }
+    ],
+    "routes": [
+       { "src": "/(.*)", "dest": "/back.js" }
+    ]
+ }

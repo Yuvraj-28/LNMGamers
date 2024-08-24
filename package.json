@@ -5,7 +5,8 @@
   "main": "back.js",
   "scripts": {
     "start": "node back.js",
-    "dev": "nodemon back.js"
+    "dev": "nodemon back.js",
+    "build": ""
   },
   "author": "",
   "license": "ISC",

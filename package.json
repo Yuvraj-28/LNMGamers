@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node back.js",
     "dev": "nodemon back.js",
-    "build": ""
+    "build": "npm i"
   },
   "author": "",
   "license": "ISC",

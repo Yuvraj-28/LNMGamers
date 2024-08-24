@@ -4,9 +4,7 @@
   "description": "",
   "main": "back.js",
   "scripts": {
-    "start": "node back.js",
-    "dev": "nodemon back.js",
-    "build": "npm i"
+    "start": "node back.js"
   },
   "author": "",
   "license": "ISC",
